@@ -1,0 +1,161 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #f7f7f7;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.price {
+  color: #d8a10b;
+  font-size: 1.25rem;
+}
+
+.total {
+  color: #aa7f0b;
+  font-size: 1.25rem;
+}
+
+.quantity {
+  display: inline-block;
+  width: 2.5rem;
+  height: 1.25rem;
+  font-weight: 600;
+}
+
+.logo-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #dfd0b8;
+}
+
+ul {
+  padding-left: 1rem;
+  margin: 0;
+}
+
+.head-title {
+  color: #37353e;
+  font-weight: 600;
+  margin-top: 0;
+  font-size: 2rem;
+  text-align: center;
+}
+
+table.cart {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+  min-width: 40rem;
+  width: 100%;
+
+  td,
+  th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  tr {
+    background-color: #fff;
+  }
+
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #715a5a;
+    color: white;
+  }
+
+  img {
+    height: 4rem;
+  }
+}
+
+img.empty-cart {
+  max-width: 15rem;
+  display: block;
+  margin: 0 auto 1.5rem;
+}
+
+.orders {
+  display: grid;
+  gap: 16px;
+  max-width: 800px;
+  margin: auto;
+
+  .order-card {
+    background: #fff;
+    padding: 16px;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    margin-bottom: 1rem;
+  }
+  .order-header {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  .items {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 12px;
+  }
+  .item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .item img {
+    height: 4rem;
+    object-fit: cover;
+  }
+  .item-info {
+    flex: 1;
+  }
+  .total {
+    font-weight: bold;
+    color: #2c3e50;
+  }
+  .address {
+    font-size: 14px;
+    color: #555;
+  }
+}
+
+.update-product-box {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: auto;
+  background-color: white;
+
+  label {
+    margin: 1rem 0 0.25rem;
+  }
+
+  input {
+    padding: 0.6rem .75rem;
+    font-size: 1rem;
+    border: 2px solid #c8bdf6;
+    border-radius: 8px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  input:focus {
+    border-color: #7b5cff;
+  }
+}
+
