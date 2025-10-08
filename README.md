@@ -5,29 +5,23 @@ It provides complete functionality for user authentication, product management, 
 
 ---
 
-## 🌐 Live Demo  
-> 🚧 *(Add your deployed link once ready)*  
-Example: [https://ecommerce-shruzzzzz.vercel.app](https://ecommerce-shruzzzzz.vercel.app)
-
----
-
-## 🖼️ Project Screenshots  
+## 🖼️ Project Screenshots
 
 ### 🏠 Home Page  
-![Home Page](https://github.com/shruzzzzz-30/ecommerce/assets/your_image_id/home.png)
+![Home Page](https://github.com/shruzzzzz-30/ecommerce/blob/main/Screenshot%20(464).png?raw=true)
 
-### 🧍‍♀️ Login Page  
-![Login Page](https://github.com/shruzzzzz-30/ecommerce/assets/your_image_id/login.png)
+### 🛍️ Product Listing  
+![Product Listing](https://github.com/shruzzzzz-30/ecommerce/blob/main/Screenshot%20(465).png?raw=true)
 
-### 🛒 Product Listing  
-![Product Listing](https://github.com/shruzzzzz-30/ecommerce/assets/your_image_id/products.png)
+### 🛒 Cart Page  
+![Cart Page](https://github.com/shruzzzzz-30/ecommerce/blob/main/Screenshot%20(466).png?raw=true)
 
-### ❤️ Cart Page  
-![Cart Page](https://github.com/shruzzzzz-30/ecommerce/assets/your_image_id/cart.png)
+### 🧾 Order Summary  
+![Order Summary](https://github.com/shruzzzzz-30/ecommerce/blob/main/Screenshot%20(467).png?raw=true)
 
-*(To add your own images: go to your repo → “Issues” tab → drag image → copy link → replace above URLs)*  
+### 🔐 Login Page  
+![Login Page](https://github.com/shruzzzzz-30/ecommerce/blob/main/Screenshot%20(468).png?raw=true)
 
----
 
 ## 🚀 Tech Stack
 
