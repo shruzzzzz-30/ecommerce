@@ -148,16 +148,21 @@ Admin dashboard with analytics
 ## 🖼️ Project Screenshots
 
 ### 🏠 Home Page
-![Home Page](./frontend/public/screenshots/homepage.png)
+![Home Page](https://github.com/shruzzzzz-30/ecommerce/blob/main/Screenshot%20(464).png?raw=true)
 
 ### 🛍️ Product Listing
-![Product Listing](./frontend/public/screenshots/product-page.png)
+![Product Listing](
+https://github.com/shruzzzzz-30/ecommerce/blob/main/Screenshot%20(465).png?raw=true)
 
-### 🛒 Cart Page
-![Cart Page](./frontend/public/screenshots/cart.png)
 
-### ⚙️ Admin Dashboard
-![Admin Dashboard](./frontend/public/screenshots/admin-dashboard.png)
+![Cart Page](https://github.com/shruzzzzz-30/ecommerce/blob/main/Screenshot%20(466).png?raw=true)
+
+
+
+![Cart Page](https://github.com/shruzzzzz-30/ecommerce/blob/main/Screenshot%20(467).png?raw=true)
+
+
+![login Page](https://github.com/shruzzzzz-30/ecommerce/blob/main/Screenshot%20(468).png?raw=true)
 
 
 🧑‍💻 Author
