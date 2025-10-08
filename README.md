@@ -145,6 +145,21 @@ Email notifications
 
 Admin dashboard with analytics
 
+## 🖼️ Project Screenshots
+
+### 🏠 Home Page
+![Home Page](./frontend/public/screenshots/homepage.png)
+
+### 🛍️ Product Listing
+![Product Listing](./frontend/public/screenshots/product-page.png)
+
+### 🛒 Cart Page
+![Cart Page](./frontend/public/screenshots/cart.png)
+
+### ⚙️ Admin Dashboard
+![Admin Dashboard](./frontend/public/screenshots/admin-dashboard.png)
+
+
 🧑‍💻 Author
 👩‍💻 Shruthi M
 Full-Stack Developer | JavaScript | TypeScript | React | Node.js
